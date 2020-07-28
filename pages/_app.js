@@ -5,8 +5,8 @@
 
 // _app.js を追加したときは開発サーバを再起動する必要があります。
 
-import '../styles/global.css'
+// import '../styles/global.css'
 
-export default function App({ Component, pageProps }) {
-  return <Component {...pageProps} />
-}
+// export default function App({ Component, pageProps }) {
+//   return <Component {...pageProps} />
+// }
